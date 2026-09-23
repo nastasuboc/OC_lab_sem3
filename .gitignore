@@ -1,69 +1,77 @@
-# Prerequisites
-*.d
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+CTestTestfile.cmake
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.vcxproj.filters
+
+OC_lab1_3sem_Suboch/OC_lab1_3sem_Suboch/OC_lab1_3sem_Suboch.vcxproj.filters
+OC_lab1_3sem_Suboch/Main/bin
+OC_lab1_3sem_Suboch/Main/inprotocol
+OC_lab1_3sem_Suboch/Main/poper
+OC_lab1_3sem_Suboch/Main/protocol
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+
+# ===== Compiled files =====
 *.obj
-
-# Precompiled Headers
-*.gch
+*.o
+*.lo
+*.slo
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
+*.gch
 *.pdb
-
-# Compiled Dynamic libraries
+*.ilk
+*.exp
+*.lib
+*.a
+*.lai
 *.so
 *.dylib
 *.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
 *.out
 *.app
 
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
 *.log
-*.bak
-*.swp
+*.tlog
+*.tmp
+*.rsp
+*.sbr
+*.vspscc
+*.vssscc
 
-# vcpkg
-vcpkg_installed/
+hhh
+www
+oper
+d
 
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
