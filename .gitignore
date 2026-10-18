@@ -4,3 +4,11 @@ Release/
 x64/
 *.user
 packages/
+build/
+OC_lab1_3sem_Suboch/Main/bin
+OC_lab1_3sem_Suboch/Main/d
+OC_lab1_3sem_Suboch/Main/hhh
+OC_lab1_3sem_Suboch/Main/inprotocol
+OC_lab1_3sem_Suboch/Main/poper
+OC_lab1_3sem_Suboch/Main/protocol
+OC_lab1_3sem_Suboch/Main/www
