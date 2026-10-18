@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\repo\OC_lab_sem3\OC_lab1_3sem_Suboch\Reporter\Reporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\repo\OC_lab_sem3\OC_lab1_3sem_Suboch\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C48F39AA-A8EE-358F-9A4D-330104241434}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
